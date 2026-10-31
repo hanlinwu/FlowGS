@@ -1,0 +1,17 @@
+einops==0.8.1
+matplotlib==3.10.0
+natsort==8.4.0
+numpy==1.26.4
+omegaconf==2.3.0
+opencv-python==4.11.0.86
+pillow==11.1.0
+pyiqa==0.1.13
+pytorch-fid==0.3.0
+pytorch-lightning==1.5.5
+scikit-image==0.25.1
+scipy==1.15.1
+taming-transformers==0.0.1
+tensorboard==2.19.0
+torchmetrics==1.5.2
+tqdm==4.67.1
+wandb==0.20.1
